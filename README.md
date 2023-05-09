@@ -1,7 +1,93 @@
-- 👋 Hi, I’m Diego Santiago Viera de Brito
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Machine Learing models
-- 📫 How to reach me santiagoariel@gmail.com
+<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
 
-A data science enthusiast with a background in law and a passion for problem-solving, I bring a unique perspective to the field.
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
 
+        .container {
+          --color-main: #209cff;
+          --color-primary: #78b3dc;
+          --color-secondary: #b3dced;
+          --color-tertiary: #f2f6fa;
+
+          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+          background-size: 400% 400%;
+          animation: gradient 15s ease infinite;
+
+          width: 100%;
+          height: 300px;
+
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          color: white;
+
+          font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }
+
+        .hi {
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+        }
+
+        @media (prefers-color-scheme: light) {
+          .container {
+            --color-main: #209cff;
+            --color-primary: #78b3dc;
+            --color-secondary: #b3dced;
+            --color-tertiary: #f2f6fa;
+          }
+        }
+
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
+          .hi {
+            animation: none;
+          }
+        }
+
+        .portfolio {
+          margin-top: 16px;
+          text-align: center;
+        }
+
+        .portfolio a {
+          color: white;
+          text-decoration: underline;
+        }
+      </style>
+
+      <div class="container">
+        <h1>Hi there, Diego here ! <div class="hi">👋</div></h1>
+        <div class="portfolio">
+          Check out my portfolio at <a href="https://www.datascienceportfol.io/diegosvbrito" target="_blank">www.datascienceportfol.io/diegosvbrito</a>
+        </div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
