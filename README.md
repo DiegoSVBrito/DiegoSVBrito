@@ -64,7 +64,7 @@
       &lt;/style&gt;
 
       &lt;div class=&quot;container&quot;&gt;
-        &lt;h1&gt;Hi there, my name is Nikola &lt;div class=&quot;hi&quot;&gt;&amp;#x1F44B;&lt;/div&gt;&lt;/h1&gt;
+        &lt;h1&gt;Hi there, Diego here &lt;div class=&quot;hi&quot;&gt;&amp;#x1F44B;&lt;/div&gt;&lt;/h1&gt;
         &lt;p&gt;Check out my portfolio at &lt;a href=&quot;https://www.datascienceportfol.io/diegosvbrito&quot; style=&quot;color: white;&quot;&gt;www.datascienceportfol.io/diegosvbrito&lt;/a&gt;&lt;/p&gt;
       &lt;/div&gt;
     &lt;/div&gt;
