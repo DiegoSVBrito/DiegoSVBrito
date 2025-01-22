@@ -10,9 +10,9 @@ I'm always learning something new ! I Spend most of time coding and working on d
 
 
 
-- 🧗‍♂️ I’m currently working as a especialized indigenist at Brazilian Federal Government
-- :computer: Now I' am  on a personal task doing some exploratory data analysis about Covid-19 amongst the brazilian indigenous populations
-- 🏦 I’m looking for help with data science remote internships.
+- 🧗‍♂️ I’m currently working as a Data Analyst at Data Mundo
+- :computer: Now I' am  on a personal task doing some exploratory data analysis about the Dolar and Real scenarios trough each preseidential term.
+- 🏦 I’m looking for new tools to learn, specially those designed to creating better pipelines.
 - 📫 How to reach me: santiagoariel@gmail.com
 - 🎫 Portfolio: https://www.datascienceportfol.io/diegosvbrito.                       
 - 👓 projects: https://github.com/DiegoSVBrito/Projects-
