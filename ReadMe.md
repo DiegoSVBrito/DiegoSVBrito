@@ -10,8 +10,8 @@ I'm always learning something new ! I Spend most of time coding and working on d
 
 
 
-- 🧗‍♂️ I’m currently working as a Data Analyst at Data Mundo
-- :computer: Now I' am  on a personal task doing some exploratory data analysis about the Dolar and Real scenarios trough each preseidential term.
+- 🧗‍♂️ I’m currently a Data Analyst at Data Mundo
+- :computer: Now I' am  learning some pipe line skills and data engineering.
 - 🏦 I’m looking for new tools to learn, specially those designed to creating better pipelines.
 - 📫 How to reach me: santiagoariel@gmail.com
 - 🎫 Portfolio: https://www.datascienceportfol.io/diegosvbrito.                       
