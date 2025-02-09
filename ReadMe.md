@@ -1,47 +1,116 @@
-## Hello there, Diego here <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
-I'm always learning something new ! I Spend most of time coding and working on data science projects.
-
-
-
-(https://www.linkedin.com/in/diego-santiago-v-83384726/) 
-
-
-
-- 🧗‍♂️ I’m currently a Data Analyst at Data Mundo
-- :computer: Now I' am  learning some pipe line skills and data engineering.
-- 🏦 I’m looking for new tools to learn, specially those designed to creating better pipelines.
-- 📫 How to reach me: santiagoariel@gmail.com
-- 🎫 Portfolio: https://www.datascienceportfol.io/diegosvbrito.                       
-- 👓 projects: https://github.com/DiegoSVBrito/Projects-
-
-
-
-### Favorite libs, coders, languages, learning tools and stuff
-
-
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
-![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
- 
-
-<br />
-<br />
-
-
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Diego Brito - Data Professional Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #007acc;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        header img {
+            width: 100px;
+            border-radius: 50%;
+            margin-bottom: 1rem;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        header p {
+            margin: 0.5rem 0 0;
+            font-size: 1.2rem;
+        }
+        main {
+            max-width: 1100px;
+            margin: 2rem auto;
+            padding: 0 2rem;
+        }
+        section {
+            margin-bottom: 2rem;
+        }
+        section h2 {
+            font-size: 2rem;
+            margin-bottom: 1rem;
+            color: #007acc;
+        }
+        .project-list {
+            list-style: none;
+            padding: 0;
+        }
+        .project-list li {
+            background: #fff;
+            margin-bottom: 1rem;
+            padding: 1rem;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        .project-list li a {
+            text-decoration: none;
+            color: #007acc;
+            font-weight: bold;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem 0;
+            background: #333;
+            color: #fff;
+        }
+        .hero {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+        .hero img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <img src="https://via.placeholder.com/100" alt="Profile Picture">
+        <h1>Diego Brito</h1>
+        <p>Data Science | SQL | Analytics | Cloud Enthusiast</p>
+    </header>
+    <main>
+        <div class="hero">
+            <img src="https://via.placeholder.com/1200x400" alt="Hero Image">
+        </div>
+        <section>
+            <h2>About Me</h2>
+            <p>
+                Welcome to my portfolio! I am passionate about solving problems using data. Explore my projects below, where I showcase work in data science, SQL, and analytics.
+            </p>
+        </section>
+        <section>
+            <h2>Featured Projects</h2>
+            <ul class="project-list">
+                <li><a href="#">Project 1: Space Race Data Analysis</a> - A deep dive into the historic Space Race.</li>
+                <li><a href="#">Project 2: Credit Risk Analysis</a> - Predictive modeling for credit applications.</li>
+                <li><a href="#">Project 3: COVID-19 Data Visualization</a> - Insights into the pandemic's spread and impact.</li>
+            </ul>
+        </section>
+        <section>
+            <h2>Contact</h2>
+            <p>Feel free to reach out to me via <a href="mailto:santiagorafael@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/diegodebrito/">LinkedIn</a>.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Diego Brito. All rights reserved.</p>
+    </footer>
+</body>
+</html>
