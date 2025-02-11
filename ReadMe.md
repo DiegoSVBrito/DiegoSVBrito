@@ -26,6 +26,9 @@ Exploring the pandemic's spread and impact.
 ### 3. [From the Heart: A Data Journey](https://github.com/DiegoSVBrito/Projects-/blob/13ad7fc9ee91c443ecd9b10103344eee5cbf360b/From%20the%20Heart%20by%20Diego%20Brito%20%F0%9F%98%8D.ipynb)
 Combining analytics and storytelling.
 
+### 4. [Análise Cambial Dolar Real: Dados dos Desgovernos](https://github.com/DiegoSVBrito/DiegoSVBrito/blob/main/An%C3%A1lise%20cambial%20Real%20e%20Dolar%202015%20a%202025.ipynb)
+Combining analytics and public financial data.
+
 ---
 
 ## 📬 Let's Connect
