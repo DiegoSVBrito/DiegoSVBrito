@@ -32,7 +32,7 @@ Combining analytics and public financial data.
 ---
 
 ## 📬 Let's Connect
-- **Email**: [santiagorafael@gmail.com](mailto:santiagorafael@gmail.com)
+- **Email**: [santiagoariel@gmail.com](mailto:santiagorafael@gmail.com)
 - **LinkedIn**: [linkedin.com/in/diegodebrito](https://www.linkedin.com/in/diegodebrito/)
 - **Portfolio**: [Data Science Portfolio](https://www.datascienceportfol.io/diegosvbrito)
 
