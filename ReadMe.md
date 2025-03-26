@@ -1,6 +1,6 @@
 # Diego Brito
 
-<img src="https://github.com/DiegoSVBrito/DiegoSVBrito/blob/main/IMG_20211223_071654.jpg" width="120"/>
+<img src="https://github.com/DiegoSVBrito/DiegoSVBrito/blob/main/IMG_20211223_071654.jpg" width="160"/>
 
 **Hi, I'm Diego!** João’s father and Aline’s husband, a lover of life and animals. I enjoy learning, solving problems, and finding patterns in data, life, or a good book.
 
@@ -17,9 +17,38 @@ With a background in **Law**, I developed critical thinking and problem-solving 
 
 ## 🔍 Featured Projects
 
-### 1. [BANVIC: Analytical Report](https://github.com/DiegoSVBrito/Projects-/blob/main/LH_EAAD_DiegoSVdeBrito%20small.pdf)  
-Data-driven insights for a business decision-making challenge.
+# BANVIC - Business Analysis with Power BI & Python
 
+## 📊 Project Overview
+This project presents a business case analysis for a fictional company called BANVIC. The objective was to apply data analysis and visualization techniques to support strategic decision-making based on sales performance, product analysis, and customer behavior.
+
+## 🛠️ Tools & Technologies
+- Power BI 
+- Python (Pandas, Matplotlib, Numpy, Seaborn)
+- Excel
+- SQL (data fetching queries)
+- Figma (for final report layout)
+
+## 🚀 Key Outcomes
+- Development of an executive dashboard using Power BI.
+- Identification of underperforming products and sales trends.
+- Strategic recommendations based on customer segmentation.
+- Deliver a visual report optimized for business presentation.
+
+## 📁 How to Use
+1. Open the [Final Report (PDF)](https://github.com/DiegoSVBrito/Projects-/blob/main/LH_EAAD_DiegoSVdeBrito%20small.pdf)
+2. Explore the Power BI `.pbix` file and Python notebooks if available.
+3. Reproduce the analysis using Power BI Desktop and Python 3.x.
+
+## 👤 Credits
+This project was developed as part of the data challenge by Indicium Lighthouse.
+
+---
+
+** Some Other projects  🚀**
+
+
+---
 ### 2. [COVID-19 Data Visualization](https://github.com/DiegoSVBrito/Projects-/blob/main/Covid%20among%20regions.ipynb)  
 Visualizing the impact and spread of COVID-19 across different regions.
 
@@ -29,7 +58,8 @@ A creative notebook merging analytics, emotions, and narrative.
 ### 4. [Análise Cambial Dólar-Real: Dados dos Desgovernos](https://github.com/DiegoSVBrito/DiegoSVBrito/blob/main/An%C3%A1lise%20cambial%20Real%20e%20Dolar%202015%20a%202025.ipynb)  
 Análise crítica da política econômica brasileira com base em dados públicos.
 
----
+--
+**Sinta-se à vontade para explorar, dar sugestões ou se conectar! 🚀**-
 
 ## 📫 Let's Connect
 - 📧 [Email](mailto:santiagoariel@gmail.com)
@@ -37,5 +67,3 @@ Análise crítica da política econômica brasileira com base em dados públicos
 - 📁 [Portfolio](https://www.datascienceportfol.io/diegosvbrito)
 
 ---
-
-**Feel free to explore my repositories and connect with me for collaboration opportunities!**
