@@ -59,9 +59,11 @@ Formacao em Cloud Computing e MBA em Data Science, com background em Direito que
 
 | Projeto | Stack | Descricao |
 |---------|-------|-----------|
-| [analytics-engineering-dbt-databricks](https://github.com/DiegoSVBrito/Data_Full_Stack) | dbt, Databricks, Airflow, Docker | Pipeline end-to-end com arquitetura medalhao, 45+ testes, CI/CD |
-| [data-pipeline-gcp-airflow](https://github.com/DiegoSVBrito/) | GCP, Airflow, BigQuery, Pub/Sub | Pipelines de ingestao multi-fonte no Cloud Composer |
-| [data-quality-governance](https://github.com/DiegoSVBrito/) | Great Expectations, dbt, Python | Framework de qualidade e governanca de dados |
+| [analytics-engineering-dbt-databricks](https://github.com/DiegoSVBrito/analytics-engineering-dbt-databricks) | dbt, Databricks, Airflow, Docker | Pipeline end-to-end com arquitetura medalhao, 45+ testes, CI/CD |
+| [terraform-gcp-data-platform](https://github.com/DiegoSVBrito/terraform-gcp-data-platform) | Terraform, GCP, BigQuery, Pub/Sub | Infraestrutura como Codigo para plataforma de dados completa |
+| [streaming-pipeline-pubsub-bigquery](https://github.com/DiegoSVBrito/streaming-pipeline-pubsub-bigquery) | Dataflow, Pub/Sub, BigQuery, Python | Pipeline de streaming em tempo real com DLQ e monitoramento |
+| [data-quality-framework](https://github.com/DiegoSVBrito/data-quality-framework) | Great Expectations, Python, YAML | Framework de governanca com data contracts e validacao automatizada |
+| [banvic-business-analytics-powerbi](https://github.com/DiegoSVBrito/banvic-business-analytics-powerbi) | Power BI, Python, SQL | Business analytics: segmentacao, performance de canais e produtos |
 
 ---
 
