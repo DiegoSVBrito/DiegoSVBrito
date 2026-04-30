@@ -63,6 +63,7 @@ Background in Cloud Computing and Data Science with strong analytical problem-so
 | [terraform-gcp-data-platform](https://github.com/DiegoSVBrito/terraform-gcp-data-platform) | Terraform, GCP, BigQuery, Pub/Sub | Infrastructure as Code for a complete data platform |
 | [streaming-pipeline-pubsub-bigquery](https://github.com/DiegoSVBrito/streaming-pipeline-pubsub-bigquery) | Dataflow, Pub/Sub, BigQuery, Python | Real-time streaming pipeline with DLQ and monitoring |
 | [data-quality-framework](https://github.com/DiegoSVBrito/data-quality-framework) | Great Expectations, Python, YAML | Governance framework with data contracts and automated validation |
+| [api-ingestion-airflow-bigquery](https://github.com/DiegoSVBrito/api-ingestion-airflow-bigquery) | Airflow, BigQuery, Python | Production API ingestion: watermark incremental, staging + MERGE, rate limiting |
 
 ---
 
